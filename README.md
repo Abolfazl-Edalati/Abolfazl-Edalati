@@ -35,9 +35,9 @@ Frontend Developer focused on building clean, fast, and accessible digital produ
 
 ### 🌟 Featured Project
 
-**[گِرِه (Gereh) — E-Commerce Platform](https://github.com/Abolfazl-Edalati/aasoo-macrame)**
+**[Gereh — E-Commerce Platform](https://github.com/Abolfazl-Edalati/aasoo-macrame)**
 A modern full-stack web application built with **Next.js 16 App Router**, **React 19**, **TypeScript**, and **Tailwind CSS v4**.
-- 🔗 [Live Demo](https://YOUR-DEMO-URL) | 💻 [Source Code](https://github.com/Abolfazl-Edalati/aasoo-macrame)
+- 💻 [Source Code](https://github.com/Abolfazl-Edalati/aasoo-macrame)
 - Features: SMS-OTP Auth, ZarinPal Gateway, Admin Kanban Board, and Server Actions.
 
 ---
